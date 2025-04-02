@@ -61,7 +61,7 @@ diabetes-risk-prediction/ ├── diabetes_prediction.ipynb # Main notebook �
 
 ## ▶️ How to Run
 
-1. Clone the repository 
+1. Clone the repository https://github.com/Duncan1738/Diabetes-Risk-Prediction-with-Explainable-AI-SHAP-LIME-.git
 2. Upload the dataset if needed (CSV)
 3. Install requirements:
    ```bash
