@@ -1,4 +1,4 @@
-# 🧠 Diabetes Risk Prediction with Explainable AI (SHAP & LIME)
+# Diabetes Risk Prediction with Explainable AI (SHAP & LIME)
 
 This project builds and evaluates machine learning models to predict diabetes risk based on key health indicators. It also integrates **explainable AI tools** like **SHAP** and **LIME** to interpret and visualize model predictions — helping both researchers and practitioners understand the model's decision-making process.
 
