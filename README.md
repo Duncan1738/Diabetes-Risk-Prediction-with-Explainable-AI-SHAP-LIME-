@@ -30,7 +30,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 
 ---
 
-## ⚙️ Technologies & Libraries
+##  Technologies & Libraries
 
 | Category        | Tools Used                         |
 |----------------|-------------------------------------|
