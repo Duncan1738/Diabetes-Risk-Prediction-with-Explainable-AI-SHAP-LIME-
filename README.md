@@ -67,9 +67,7 @@ diabetes-risk-prediction/ ├── diabetes_prediction.ipynb # Main notebook �
    ```bash
    pip install shap lime xgboost scikit-learn
 
-👤 Author
-Duncan Kibet
-PhD Student in Big Data, Chosun University
+licence MIT
 
 📜 License
 MIT License
