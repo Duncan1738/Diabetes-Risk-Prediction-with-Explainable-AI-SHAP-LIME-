@@ -13,7 +13,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 
 ---
 
-## 🧾 Dataset
+##  Dataset
 
 - **Name**: PIMA Indians Diabetes Dataset  
 - **Source**: [Kaggle - UCI PIMA Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
