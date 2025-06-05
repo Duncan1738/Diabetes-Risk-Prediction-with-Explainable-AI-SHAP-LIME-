@@ -69,5 +69,5 @@ diabetes-risk-prediction/ ├── diabetes_prediction.ipynb # Main notebook �
 
 licence MIT
 
-📜 License
+License
 MIT License
