@@ -59,7 +59,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 diabetes-risk-prediction/ ├── diabetes_prediction.ipynb # Main notebook ├── xgb_diabetes_model.pkl # Saved XGBoost model (optional) ├── README.md └── requirements.txt # Optional
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository  git clone https://github.com/Duncan1738/Diabetes-Risk-Prediction-with-Explainable-AI-SHAP-LIME-.git
 2. Upload the dataset if needed (CSV)
