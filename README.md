@@ -43,7 +43,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model              | Accuracy | ROC AUC |
 |-------------------|----------|---------|
