@@ -51,7 +51,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 | Random Forest       | ~85%     | ~88%    |
 | XGBoost             | ✅ Best | ✅ Best |
 
-> 🧠 SHAP shows that **Glucose**, **BMI**, and **Age** are the most influential predictors.
+> SHAP shows that **Glucose**, **BMI**, and **Age** are the most influential predictors.
 
 ---
 
