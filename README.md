@@ -67,10 +67,10 @@ diabetes-risk-prediction/
 1. Clone the repository  git clone https://github.com/Duncan1738/Diabetes-Risk-Prediction-with-Explainable-AI-SHAP-LIME-.git
 2. Upload the dataset if needed (CSV)
 3. Install requirements:
-   ```bash
+```python
    pip install shap lime xgboost scikit-learn
+ ```
 
-
-
+===
 License
 MIT 
