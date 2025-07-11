@@ -70,7 +70,7 @@ diabetes-risk-prediction/
    ```bash
    pip install shap lime xgboost scikit-learn
 
-licence MIT
+
 
 License
 MIT 
