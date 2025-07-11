@@ -4,7 +4,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Train and evaluate predictive models using the PIMA Diabetes dataset
 - Apply logistic regression, random forest, and XGBoost classifiers
