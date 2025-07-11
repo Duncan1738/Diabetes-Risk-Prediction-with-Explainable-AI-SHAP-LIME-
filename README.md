@@ -72,5 +72,5 @@ diabetes-risk-prediction/
  ```
 
 ---
-License
-MIT 
+
+MIT License
