@@ -56,7 +56,10 @@ This project builds and evaluates machine learning models to predict diabetes ri
 ---
 
 ## 📁 Project Structure
-diabetes-risk-prediction/ ├── diabetes_prediction.ipynb # Main notebook ├── xgb_diabetes_model.pkl # Saved XGBoost model (optional) ├── README.md └── requirements.txt # Optional
+diabetes-risk-prediction/
+├── diabetes_prediction.ipynb # Main notebook 
+├── xgb_diabetes_model.pkl # Saved XGBoost model (optional) 
+├ └── requirements.txt # Optional
 
 
 ##  How to Run
