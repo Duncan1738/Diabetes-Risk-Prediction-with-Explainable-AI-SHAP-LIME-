@@ -49,7 +49,7 @@ This project builds and evaluates machine learning models to predict diabetes ri
 |-------------------|----------|---------|
 | Logistic Regression | ~78%     | ~82%    |
 | Random Forest       | ~85%     | ~88%    |
-| XGBoost             |  Best | ✅ Best |
+| XGBoost             |  Best |  Best |
 
 > SHAP shows that **Glucose**, **BMI**, and **Age** are the most influential predictors.
 
