@@ -69,6 +69,6 @@ diabetes-risk-prediction/
 3. Install requirements:
 ```python
    pip install shap lime xgboost scikit-learn
- ```
+```
 
 
